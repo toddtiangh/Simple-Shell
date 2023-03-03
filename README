@@ -1,0 +1,12 @@
+Resources Used
+
+Links and Videos: https://www.geeksforgeeks.org/write-a-c-program-that-doesnt-terminate-when-ctrlc-is-pressed/  
+               - For signit handler and Sadie showed how to implement &status and waitpid at OH
+
+https://www.youtube.com/@hhp3/videos - good drawings on shell programs
+https://www.youtube.com/@CodeVault - simplifying shell commands.
+https://www.geeksforgeeks.org/making-linux-shell-c/ - really useful in general
+https://stackoverflow.com/questions/11515399/implementing-shell-in-c-and-need-help-handling-input-output-redirection - file redirection help
+http://www.cs.loyola.edu/~jglenn/702/S2005/Examples/dup2.html - more file redirection help
+https://people.cs.rutgers.edu/~pxk/416/notes/c-tutorials/dup2.html - more and more file redirection help
+https://www.cs.purdue.edu/homes/grr/SystemsProgrammingBook/Book/Chapter5-WritingYourOwnShell.pdf -lots of simplified code covering all areas of a shell PG 12-18
