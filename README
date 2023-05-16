@@ -1,7 +1,7 @@
 Resources Used
 
 Links and Videos: https://www.geeksforgeeks.org/write-a-c-program-that-doesnt-terminate-when-ctrlc-is-pressed/  
-               - For signit handler and Sadie showed how to implement &status and waitpid at OH
+               - For signit handler
 
 https://www.youtube.com/@hhp3/videos - good drawings on shell programs
 https://www.youtube.com/@CodeVault - simplifying shell commands.
